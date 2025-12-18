@@ -33,19 +33,6 @@
 
 ---
 
-## 📌 Projects
-
-- 🛍 **E-commerce Platform (Odoo)**  
-  _Products, Orders, Payments, CRM, Hosting & Deployment_
-
-- 📊 **Client & Tele-Sales Management App**  
-  _Client history, visits, orders, stock tracking_
-
-- 🧠 **Educational Platform (React + Laravel API)**  
-  _Groups, skills, exercises & assessments_
-
----
-
 ## 📫 Contact Me
 
 - 📧 [Email](dohachoukri014@gmail.com)  
