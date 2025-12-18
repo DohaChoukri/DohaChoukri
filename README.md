@@ -1,16 +1,57 @@
-## Hi there 👋
+# Hi there 👋, I'm Doha Choukri 
 
-<!--
-**DohaChoukri/DohaChoukri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Full Stack Developer | React • Laravel • Node.js • Odoo
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/doha-choukri-0a6a50330/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge)](https://portfolio-ebon-eta-43.vercel.app/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👩‍💻 About Me
+
+- 🎓 Diploma student in **Digital Development (Full Stack)**
+- 💼 Full Stack Developer with experience in **React, Laravel, Node.js & Odoo**
+- 🛒 Built an **e-commerce platform** using **Odoo**
+- 🌱 Currently improving my skills in **advanced backend & system design**
+- 🎯 Goal 2025: **Build impactful real-world applications**
+
+---
+
+## 🛠️ Languages & Tools
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35"/>
+</p>
+
+---
+
+## 📌 Projects
+
+- 🛍 **E-commerce Platform (Odoo)**  
+  _Products, Orders, Payments, CRM, Hosting & Deployment_
+
+- 📊 **Client & Tele-Sales Management App**  
+  _Client history, visits, orders, stock tracking_
+
+- 🧠 **Educational Platform (React + Laravel API)**  
+  _Groups, skills, exercises & assessments_
+
+---
+
+## 📫 Contact Me
+
+- 📧 [Email](dohachoukri014@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/doha-choukri-0a6a50330/) 
+- 🌍 [Portfolio](https://portfolio-ebon-eta-43.vercel.app/)
+
+---
+
+⭐️ *Feel free to explore my repositories and connect with me!*
