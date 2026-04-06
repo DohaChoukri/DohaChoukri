@@ -37,7 +37,6 @@
 
 - 📧 [Email](dohachoukri014@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/doha-choukri-0a6a50330/) 
-- 🌍 [Portfolio](https://portfolio-ebon-eta-43.vercel.app/)
 
 ---
 
